@@ -96,7 +96,6 @@ Stakeholders have many issues to manage, so it's important to communicate with c
 Activity diagrams present a number of benefits to users. Consider creating an activity diagram to:
 
 Demonstrate the logic of an algorithm.
-
 Describe the steps performed in a UML use case.
 <img width="641" height="563" alt="image" src="https://github.com/user-attachments/assets/baacb841-64f8-42fc-804e-21cfdb36d8b4" />
 
